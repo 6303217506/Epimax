@@ -1,0 +1,10 @@
+.header-main-bg-container {
+  background-color: bisque;
+  padding: 20px;
+}
+
+.main-bg-container-todos {
+  background-image: url('https://cdn.wallpapersafari.com/30/58/RkcNFT.jpg');
+  background-size: cover;
+  height: 100vh;
+}
